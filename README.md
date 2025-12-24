@@ -44,7 +44,6 @@ GET http://localhost:3000/api/weather?city=almaty
 Response:
 
 ```json
-Копировать код
 {
   "temperature": -1.8,
   "feels_like": -1.8,
@@ -93,3 +92,4 @@ Response:
 ## Conclusion
 Successfully integrated two server-side APIs.
 Backend architecture separates routes and services.
+
